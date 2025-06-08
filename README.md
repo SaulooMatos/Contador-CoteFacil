@@ -15,8 +15,8 @@ Este é um projeto técnico desenvolvido em React para o processo seletivo da Co
 
 1. Clone o repositório:
    ```
-   git clone [seu-repositório]
-   cd CoteFacil
+   git clone https://github.com/SaulooMatos/Contador-CoteFacil.git
+   cd Contador-CoteFacil
    ```
 
 2. Instale as dependências:
